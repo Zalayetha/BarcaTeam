@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primaryDarkBarca">#FF181632</color>
+    <color name="startGradientBarca">#FF161F40</color>
+    <color name="middleGradientBarca">#FF162B58</color>
+    <color name="endGradientBarca">#FF153A76</color>
+    <color name="colorSecondary">#FFFDC42D</color>
+    <color name="colorSecondaryBlur">#80FDC42D</color>
+</resources>

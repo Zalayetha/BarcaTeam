@@ -1,0 +1,331 @@
+<resources>
+    <string name="app_name">Barca Team</string>
+    <string name="title">Title</string>
+    <string name="player_name">Nama Pemain</string>
+    <string name="description">Deskripsi</string>
+    <string name="player_position">Posisi Pemain</string>
+    <string name="dev_name">Mohammad Zaghy Zalayetha Sofjan</string>
+    <string name="dev_email">zalayetha@gmail.com</string>
+    <string name="about">About Page</string>
+    <string name="action_share_title">Share</string>
+    <string-array name="data_player_name">
+
+        <item>Marc-André ter Stegen</item>
+        <item>Iñaki Peña</item>
+
+
+        <item>João Cancelo</item>
+        <item>Alejandro Balde</item>
+        <item>Ronald Araujo</item>
+        <item>Íñigo Martínez</item>
+        <item>Andreas Christensen</item>
+        <item>Marcos Alonso</item>
+        <item>Jules Kounde</item>
+
+
+        <item>Gavi</item>
+        <item>Pedri</item>
+        <item>Fermín López</item>
+        <item>Oriol Romeu</item>
+        <item>Sergi Roberto</item>
+        <item>Frenkie de Jong</item>
+        <item>Ilkay Gündogan</item>
+
+
+        <item>Ferran Torres</item>
+        <item>Robert Lewandowski</item>
+        <item>Raphinha</item>
+        <item>João Félix</item>
+        <item>Vitor Roque</item>
+    </string-array>
+
+    <string-array name="data_position_name">
+        <item>Goalkeeper</item>
+        <item>Goalkeeper</item>
+
+        <item>Defender</item>
+        <item>Defender</item>
+        <item>Defender</item>
+        <item>Defender</item>
+        <item>Defender</item>
+        <item>Defender</item>
+        <item>Defender</item>
+
+        <item>Midfielder</item>
+        <item>Midfielder</item>
+        <item>Midfielder</item>
+        <item>Midfielder</item>
+        <item>Midfielder</item>
+        <item>Midfielder</item>
+        <item>Midfielder</item>
+
+        <item>Forward</item>
+        <item>Forward</item>
+        <item>Forward</item>
+        <item>Forward</item>
+        <item>Forward</item>
+
+    </string-array>
+
+    <string-array name="data_desc_overview">
+
+        <item>A keeper with great reflexes and also excellent with the ball at his feet</item>
+        <item>Iñaki Peña is a Barça-style goalkeeper: he reads the game well and can use his feet well</item>
+
+
+        <item>Supreme right back who had already excelled at a number of top clubs before his loan to Barça</item>
+        <item>Skill and strength make Alejandro Balde a fast, explosive fullback who can also support the attack</item>
+        <item>Uruguayan defender, strong in the air and capable with the ball at his feet</item>
+        <item>After more than a decade playing at the top level in Spain, Iñigo has proven his qualities at centre back</item>
+        <item>Centre back with brilliant passing skills and a tremendous reading of the game. Fabulous and finding the right route to get the ball forward</item>
+        <item>Skilful full back or sweeper with a fine left foot</item>
+        <item>Jules Kounde is known for being a very fast defender, quick to intercept, and being good on the ball</item>
+
+
+        <item>Technically gifted midfielder with plenty of character and a good reader of the game</item>
+        <item>The player enjoys playing on the front foot, driving at his direct opponent and having his passes break the defensive lines</item>
+        <item>Culer since 2012/13, and back after a brief spell at Linares, he is now a better quality footballer than ever</item>
+        <item>A powerful and very talented player with an intimate knowledge of the Barça playing style</item>
+        <item>Sergi Roberto is one of the most versatile players in the squad and is known for his ability to get into the box</item>
+        <item>His versatility, energy and great vision have allowed him to continue developing his skills in any midfield position</item>
+        <item>With extensive experience of elite football, Gündoğan is an all-round midfielder who has also developed into a great goalscorer</item>
+
+
+        <item>He brings together various talents which allow him to operate anywhere up front</item>
+        <item>One of the best strikers ever, the Polish forward\'s stats speak for themselves</item>
+        <item>A technically gifted, skill winger with great dribbling skills and combination play</item>
+        <item>Lights up football with the creative flair and talent in the final third of the field</item>
+        <item>A very versatile mobile centre forward with an eye for goal who can link and make darting runs</item>
+    </string-array>
+
+    <string-array name="data_detail_desc">
+
+        <item>
+            A keeper with great reflexes and also excellent with the ball at his feet
+            Marc-André ter Stegen signed for FC Barcelona in the summer of 2014 from Borussia Mönchengladbach. Born on 30 April 1992 in Mönchengladbach itself, the German did not take long to make his name as one Europe’s most promising young goalkeepers.
+
+            His only previous club was Borussia Mönchengladbach, which he joined in 1996 at the age of just 4, and by the time he was 18 he had already made his first team debut on 10 April 2011 in the Bundesliga against FC Köln. Mönchengladbach won 5-1, and following a fine performance Ter Stegen was soon the regular first choice keeper, conceding just three goals in his first six outings.
+
+            In the next two games, Ter Stegen and Mönchengladbach faced a relegation playoff, and won 2-1 on aggregate to stay in the top division. The following season, Ter Stegen was named best goalkeeper in the Bundesliga and he went on to complete four seasons and 108 matches in the German league.
+
+            Ter Stegen made his official debut for the Club on 17 September 2014 in Champions League against APOEL Nicosia FC. The match ended with a Barça victory (1-0 ). Aged just 22 years he became the second German goalkeeper at FC Barcelona, following on from Robert Enke. In his debut season, 2014/15, the goalkeeper played every game in the Champions League and had a leading role in the Copa del Rey, both of which Barça won. In La Liga he was back up to Claudio Bravo in his first couple of seasons at the Club but with the departure of the Chilean, Ter Stegen became first choice also in the league in the 2016/17 season.
+
+            Consistency is one of the key characteristics of the German keeper and in the 2021/22 season he surpassed 300 games for Barça, taking him into the top 5 on the all time appearance list for foreign players.
+
+            The 2022/23 season was a memorable one for the goalkeeper from Mönchengladbach. Ter Stegen won his first Zamora trophy after conceding just 18 goals in the league, keeping 26 clean sheets to equal Deportivo La Coruña\'s Paco Liaño whose record was set back in 1993/94. The German\'s performances were key in Barça reclaiming the league title and winning another Spanish Super Cup to add to their collection.
+
+            The goalkeeper from Möchengladbach has gone from one success to another and as a player he has so far won no less than 16 trophies with Barça.
+
+            International with Germany since the summer of 2017 Ter Stegen was key in his national side\'s victory in the Confederations Cup and the goalkeeper was named man of the match in the final against Chile. He was also part of the German squad in the 2018 and 2022 World Cups.
+        </item>
+        <item>
+            Iñaki Peña is a Barça-style goalkeeper: he reads the game well and can use his feet well
+            Iñaki Peña signed for Alicante CF when he was just five years old. In 2009, Villarreal CF was interested in the precocious player, where he began to stand out, especially in 2011, when he was chosen as the best goalkeeper of the Arona tournament. Barça had its eye on him and a year later he came to the Masia.
+            In his first season between the posts of the Barça Under-14 team, he won the league and was one of the keys to the team. His skill and play allowed him to grow as a player until he reached Barça B in the 2018/19 season. The keeper alternated between the B squad and the first team in the season 2020/21 and was part of the squad that lifted the Copa del Rey.
+            In the winter of the 2021/22 season the keeper left for Galatasaray on loan before returning in the summer of 2022 to the club. In January 2023 he was officially registered as a first team player.
+            That same season, 2022/23, Peña made his first debut in the Champions League against Viktoria Plzen before making his first appearance in La Liga for the blaugranes away at Valladolid in May 2023.
+        </item>
+
+
+        <item>
+            Supreme right back who had already excelled at a number of top clubs before his loan to Barça
+            Born in Barreiro, Portugal, on 27 May 1991, João Cancelo started out playing in his hometown before joining Benfica at a young age.
+            He rose through the ranks and made his first team debut in 2013/14. After one year with the seniors, he was loaned to Valencia and eventually signed for them, and then spent a season at Inter Milan before switching to another of Italy\'s top clubs, Juventus.
+            His next stop was Manchester City, who he joined in 2019 but in the 2022/23 season he was loaned to Bayern Munich and then came to FC Barcelona on a similar arrangement. He has won the league in four different countries, namely Portugal, Italy, England and Germany.
+            He has principally joined Barça to provide support on the right, although he has frequently shown over the years that he can play just as well on the left. In his later years at Manchester City, Pep Guardiola often used him as a central midfielder, and to great effect.
+        </item>
+        <item>
+            Skill and strength make Alejandro Balde a fast, explosive fullback who can also support the attack
+            Alejandro Balde, born in Barcelona to Guinean and Dominican parents, is a fast and explosive full back who joined Barça in 2011 at the age of eight after coming up through ranks at Espanyol.
+            He is of the 2003 generation, but has always played a year above. He won the league at U10 A, B and C, U12 A and C, U 14 A and B, A16 A and B levels, and quickly made the jump to the Barça Atlètic squad. Balde made hs debut for the first towards the end of the 2021/22 season and the following campaign, 2022/23, he quickly made the left back spot his own in Xavi Hernández\'s team.
+            Part of the La Liga and Spanish Super Cup winning squad in 2022/23, in the summer of 2023 he became an official first team player.
+            Balde made his debut for the Spanish national side in the World Cup in Qatar in 2022, making four appearances in the tournament.
+        </item>
+        <item>
+            Uruguayan defender, strong in the air and capable with the ball at his feet
+            Ronald Araujo was born in Rivera, Uruguay, on 7 March 1999. The young central defender began playing professionally for his hometown team, and later joined the lower categories at Rentistas in the Uruguayan Second Division.
+            Araujo stood out in his country and Boston River signed him. After one year playing in Montevideo and gaining experience in the Uruguayan top flight, he signed a five-year contract with Barça B on 29 August 2018 with a buy out clause of 100 million euros, going up to 200 million if he joins the first team squad. For the 2020/21 season the defender became part of the FC Barcelona first team squad winning his first trophy at the Club, the Copa del Rey.
+            In his third season Araujo became a valuable part of the Barça defence, playing more than 3,000 minutes for the first team, scoring four goals and showing his versatility by playing at right back when called upon.
+            The season 2022/23 saw the Uruguayan become a vital cog in a brilliant Barça defence which conceded just 18 goals in 38 La Liga matches. Araujo picked up his first La Liga title with the first team in the same season.
+            Araujo was part of the Uruguay squad for the Copa América in Brazil in 2021 and for the World Cup in Qatar where he was unable to make an appearance due to injury.
+        </item>
+        <item>
+            After more than a decade playing at the top level in Spain, Iñigo has proven his qualities at centre back
+            Born in Ondarroa on 17 May 1991, a town in the region of Vizcaya in the Basque Country, Iñigo Martínez Berridi comes to Barça with a wealth of experience in La Liga behind him. First with Real Sociedad and then Athletic Club, Martínez has made more than 350 appearances in the league, scoring 22 goals.
+            Martínez started his career at his hometown club of Aurrera d’Ondarroa before joining the youth set up at Real Sociedad at the age of 15. He made his debut for the first team in August 2011 and after six seasons with the club from Sant Sebastián he moved to their rivals Athletic Club. After six seasons in Bilbao he comes to Barça as one of the most highly rated centre halves in Spanish Football.
+            After representing Spain at various youth levels, Martínez has also played for the full national side.
+            Excellent in the air, Iñigo Martínez has the talent to bring the ball out from the back and his defensive skills will bring even solidity to the Barça back line. Vastly experienced, the defender also stands out for his leadership qualities and his competitive nature.
+        </item>
+        <item>
+            Centre back with brilliant passing skills and a tremendous reading of the game. Fabulous and finding the right route to get the ball forward
+            An excellent reader of the game and versatile centre back, Andreas Christensen (10 April 1996) was born in Lillerød (Denmark) where he started out at IF Skjold Birkerød, soon catching the eye of Brøndby IF.
+            Chelsea then spotted the potential of the centre back, and he was just 15 when he joined their youth system, and on 28 October 2014, at the age of 18, he made his pro debut against Shrewsbury Town in the League Cup.
+            In 2015, he was loaned to Borussia Mönchengladbach, and spent two seasons in the Bundesliga, quickly consolidating his role in the German team to the extent that he was named player of the season, earning him the reputation as one of the European game’s hottest defensive prospects.
+            In 2017, he went back to Chelsea to become a key component of Antonio Conte’s plans. In the following seasons he helped the Londoners to a first ever Champions League and Club World Cup.
+            In 2022/23, his first campaign as a blaugrana, he quickly became first choice at the back for coach Xavi Hernández. His ability to bring the ball out and his defensive solidity played a big role in allowing the club to claim the Spanish Super Cup and La Liga titles in that season.
+            Andreas has played for his country since 2015 and has gone on to make over 50 appearances. After featuring at the Russia 2018 World Cup he then helped the team to an impressive run to the semi-finals of Euro 2020.
+        </item>
+        <item>
+            Skilful full back or sweeper with a fine left foot
+            A full back who can also play as wing back and a threat from set pieces, Marcos Alson was born in Madrid on 28 December 1990 and comes from a family with a strong footballing tradition. His great grandfather, Luís Zabala; his grandfather, Marcos Alonso Imaz, "Marquitos"; and his father, Marcos Alonso Peña; were all professional footballers. His father and great grandfather both did do for Barça.
+            Marcos Alonso started out at Atlético Madrid and was later at Real Madrid, making his debut on 4 April 2010 against Racing Santander.
+            However, Alonso has spent most of his playing career in England. After Bolton Wanderers he was at Fiorentina on loan from Sunderland, and then Chelsea came in for him.
+            He became a global superstar at Stamford Bridge, his biggest achievement being the Champions League title.
+            Marcos Alonso\'s debut season as a blaugrana saw him form part of a defence that conceded just 18 goals in 38 league matches on their way to the La Liga title, the second piece of silverware of the campaign after the victory over Real Madrid in the Spanish Super Cup final.
+            Alonso is also a Spanish international, having made his debut against Argentina in 2018.
+        </item>
+        <item>
+            Jules Kounde is known for being a very fast defender, quick to intercept, and being good on the ball
+            Jules Kounde was born in Paris on November 12, 1998. His family originally came from Benin. He started playing for small clubs in the outskirts of Bordeaux in Southwest France. He first passed a trial at the age of 14 years old and joined the youth ranks of the professional team, FC Girondins de Bordeaux.
+            At the age of 19 the defender made his first team debt in a Coupe de France game against Granville, and he slowly but surely gained a regular place in the starting XI. Kounde caught the attention of La Liga club Sevilla and signed for the Andalusian club in 2019.
+            He quickly became an important member Julen Lopetegui\'s team and helped them win the Europa League in 2020. Kounde was part of the France squad that played in the Euro 2020 tournament in the summer of 2021 and that also claimed the UEFA Nations League title, beating Spain in the final in October 2021. In 2022 Kounde was a vital part of the France side that reached the final of the World Cup in Qatar, playing 120 minutes of the final against eventual champions Argentina.
+            As a blaugrana, Kounde was key in helping Barça to the Spanish Super Cup and La Liga titles in 2022/23. The Frenchman showed his versatility by playing mainly at right back in his first season at Barça. His first goal for the Club came against Espanyol in the match that sealed the league for FC Barcelona in May 2023.
+            Jules Kounde is known for being a very fast defender, quick to intercept, and being good on the ball. The French centre back, who can also play as a full back, is very difficult to beat one-on-one and is comfortable defending high up the pitch, as he trusts his recovery pace to get back.
+        </item>
+
+
+        <item>
+            Technically gifted midfielder with plenty of character and a good reader of the game
+            A combative and technically gifted midfielder Pablo Páez Gavira, better known as \'Gavi\', was born in the town of Los Palacios y Villafranca near Seville. As a youngster he made his way to the youth system at Real Betis where he spent two seasons representing the verdiblancos at the Luis del Sol training complex just a stone\'s throw from the Benito Villamarín stadium.
+            A complete midfielder with a winning character to match, Gavi made his fateful move to FC Barcelona for the 2015/16 season. He first represented the blaugranes at U12 level before moving through the youth categories quickly to reach the U19 squad. After impressing quickly it was not long before he made his debut for Barça B and in preseason in 2020 coach Ronald Koeman decided to include him with the first team players at the Club.
+            His progression did not stop there. At the age of 17 years and 24 days he made his La Liga debut for Barça, the fourth youngest player ever to do so back in August of 2021. In September 2022, Gavi signed a contract extension until 2026 and became an official first team member. The following month the midfielder was the recipient of the Kopa Trophy, the award handed out by the prestigious magazine France Football to the best player of the year under the age of 21. In 2022/ 23 he won his first honours with the first team with victory in the Spanish Super Cup and the league.
+            His performances for Barça quickly attracted the attention of Spain coach Luis Enrique Gavi also became the youngest player to win an international cap for Spain at the age of 17 years and 62 days when started the UEFA Nations League semi final against Italy in October 2021. In the World Cup in Qatar in 2022 he became the youngest player to play and score in the tournament for Spain. In his team\'s opening fixture against Costa Rica, Gavi found the net and was named man of the match.
+        </item>
+        <item>
+            The player enjoys playing on the front foot, driving at his direct opponent and having his passes break the defensive lines
+            On September 2, 2019, FC Barcelona and Las Palmas reached an agreement for the transfer of Pedri. However, the Canarian player didn\'t join the blaugranes until August 2020. Born in Tegueste, Tenerife, on November 25, 2002, he began his football career in the team from his hometown.
+            Later, he joined Laguna Youth and, from 2018, he began playing in the youth teams at UD Las Palmas. He excelled there and in the 2019/20 season he was a starter in the first team and the most used player across the season: 34 Segunda División A games and four goals.
+            In his first season at the Club, Pedri made 52 appearances for Barça, more than any other player, establishing himself as a fixture in the side scoring four goals in the process. Such a great season has earned him the Golden Boy and the Kopa Trophy.
+            Pedri\'s second season at the club saw him confirm his talent as one the best midfielders in the world despite an injury hit campaign.
+            In the 2022/23 season Pedri showed his importance in the squad once again as he claimed the league title for the very first time, scoring six goals in the process.
+            The midfielder quickly became a fixture in the Spanish national side and in 2021 he was chosen as the Player of the Tournament in the 2020 European Championships.
+            In 2022 he was part of the Spain squad that reached the last 16 of the World Cup in Qatar.
+        </item>
+        <item>
+            Culer since 2012/13, and back after a brief spell at Linares, he is now a better quality footballer than ever
+            Fermín López Marín was part of the Campillo youth setup in his home town, and then signed for Recreativo Huelva. After one season, in 2011/12 he moved to Real Betis Balompié and four years later entered La Masía as an U14.
+            He rose through the age ranks and eventually played for the Spanish championship winning U19A team.
+            In 2022, Barça loaned him out to Linares Deportivo in Primera Federación so that he could gain playing time and experience. Fermín did just that and was top scorer for the team with 12 goals and 4 assists.
+            It was enough to earn a return to Barça for the 2023/24 season and for Xavi Hernández to choose him to go on the US pre-season tour with the first team, where he performed admirably in the Clásico against Real Madrid in Dallas, scoring a truly special goal and providing an assist in the 3-0 win.
+            After being named in several of Xavi\'s squads and starting XIs, he was registered as a first team player in 2024.
+        </item>
+        <item>
+            A powerful and very talented player with an intimate knowledge of the Barça playing style
+            Oriol Romeu Vidal (24 September 1991) started out in the Espanyol youth system before moving to La Masía at Barça in 2004. He received his footballing education at the Club, going through the different age groups until he established himself in Barça Atlètic, coached at the time by Luis Enrique. He also played two competitive games for the Barça first team under Pep Guardiola during the 2010/11 season.
+            The following season Oriol Romeu signed for Chelsea who went on to beat Bayern Munich to win the Champions League during his first season at the English club.
+            Two years later, Romeu left on loan to Valencia and Stuttgart, where he gained valuable experience and match time in two of the world\'s best leagues. He returned to England in 2015, joining Southampton, where he became an important player and one of the most prominent holding midfielders in the Premier League. His total of 256 games for the club took him to 11th for most competitive appearances by a player for the Saints.
+            The Catalan left Southampton seven years later to continue his career at Girona. He soon showed his fortitude and talent, playing 3,042 minutes and was the most used player by coach Míchel. Romeu slotted into Girona perfectly, playing a key role during a great season, as the Catalans finished tenth on their return to the Primera División.
+            After this superb season, Oriol Romeu returned to Barça on 19 July 2023 to bolster the squad for the 23/24 season.
+        </item>
+        <item>
+            Sergi Roberto is one of the most versatile players in the squad and is known for his ability to get into the box
+            When Sergi Roberto was 14 years old he traded the town of Reus for La Masia. The ex-Nàstic Tarragona midfielder improved year after year until he became a crucial player for Luis Enrique’s Barça B team.
+            He continued to make the occasional appearance for the first team when required for the next two years, and was eventually promoted full-time to Gerardo Martino’s team in the summer of 2013, with the number 24 on his back. Under the Argentine coach, he played 27 matches, 17 in the league, 6 in the Copa del Rey and 4 in the Champions League.
+            The following year, now under Luis Enrique, Sergi Roberto appeared in 18 matches, 12 in the league, 2 in the Champions League and 4 in the Copa del Rey. His two goals that season were both scored in the Copa del Rey.
+            Sergi Roberto made his official debut for Barça on 10 November 2010 in a 5-1 Copa del Rey victory over Ceuta at Camp Nou. The versatile midfielder is now an experienced member of the season and in the 2017/18 he extended his contract with the blaugranes. He can play in midfield or at right back and he will be part of the Club\'s history thanks to his historic sixth goal in the famous 6-1 comeback victory over PSG in the 2016/17 Champions League.
+            In the 2022/23 season the La Masia product added a 7th La Liga title to his honours in a season in which he played 33 games, scoring four goals and creating three assists.
+            In his time with the Club the La Masia bred player has won 25 trophies with the first team.
+        </item>
+        <item>
+            His versatility, energy and great vision have allowed him to continue developing his skills in any midfield position
+            Frenkie de Jong was born in Arkel (Netherlands) on May 12, 1997. The Barça player started his career at Willem II in the Eredivise, the Dutch first division. In 2016 he signed for Ajax, where he gradually gained a place in the starting eleven. His versatility and his great vision allowed him to become the midfield organiser for the team from Amsterdam.
+            With Ajax, the versatile midfielder on won the Dutch league title and the Dutch Cup as well helping the Amsterdam club to the semi finals of the Champions League in the 2018/19 season.
+            De Jong arrived at Camp Nou in the summer of 2019 and he made his debut against Athletic Club in San Mamés that August.
+            In his second season at Barça, De Jong became a vital cog in Ronald Koeman\'s team ending the campaign with seven goals and seven assists.
+            In his fourth season as a blaugrana, in 2022/23, De Jong played 43 times and claimed the league title for the first time in his Barça career.
+            An important part of the Netherlands national side, Frenkie de Jong was part of the team that was runner up in the UEFA Nations League in 2019. The midfielder also played in Euro 2020 and the World Cup in 2022 when the Dutch went out to eventual winners Argentina on penalties in the quarter finals.
+        </item>
+        <item>
+            With extensive experience of elite football, Gündoğan is an all-round midfielder who has also developed into a great goalscorer
+            İlkay Gündoğan (24 October 1990, Gelsenkirchen, Germany), born to a Turkish family, is a midfielder who joined Barça in the summer of 2023 shortly after winning the Champions League as Manchester City captain and being a fundamental part of the all-conquering sky blue squad.
+            Ilkay was just 4 years old when he joined Hessler, and later played at Buer and then Bochum.
+            He was 18 when he went to FC Nürnberg, making his Bundesliga debut on 19 September 2009 against Bayern Munich after helping his side earn promotion the year before. He also scored his first goal against Bayern in the return game that season.
+            In May 2011, he joined Borussia Dortmund, where he won the German league and joined the national side at Euro 2012.
+            He quickly became an indispensable part of Jürgen Klopp\'s side, which reached the Champions League final, where Gündoğan scored a penalty but ultimately lost to Bayern.
+            Now a global star, Gündoğan was signed by Pep Guardiola to Manchester City in 2016, where he would go on to win five Premier League titles.
+            City also reached the UCL final in 2021, losing to Chelsea, but would be back two years later, this time against Inter Milan, and finally won the coveted trophy for the first time.
+            Technical profile
+            Gündoğan became a new man under Pep Guardiola, developing into an all-round midfielder who also scores plenty of goals.
+        </item>
+
+        <item>
+            He brings together various talents which allow him to operate anywhere up front
+            Born on 29 February 2000 in Foios (Valencia), Ferran Torres made first contact with the ball at an early age. He started out with futsal at the EPLA school and then attracted the attention of the Valencia CF academy. He was only seven years when he wore the shirt for the first time.
+            From there his rise was meteoric. In what seems like the blink of an eye he had advanced from all the way to the Valencia first team and made his Liga debut on 16 December 2017 against Eibar, in doing so becoming the first player born this century to appear in the competition. He had already made his official debut a few days earlier on November 30 in a Copa del Rey game against Zaragoza.
+            Ferran Torres soon adapted to life in the footballing elite, and played a bigger and bigger role in the team with every season. In the second half of the 2017/18 season, and then in 2018/19 and 2019/20, he made 97 appearances and scored nine goals.
+            From Valencia to Manchester City
+            His fine season attracted the attention of Manchester City and Pep Guardiola. After having spent his whole career at Valencia, Ferran moved to the Premier League, and also from winger to centre forward. It was in England that he became famed as a goalscorer, with 11 goals in 30 games in his first season, 2020/21, in which the Sky Blues won the league and the League Cup.
+            He began his second season with the Citizens, 2021/22, with four appearances and two goals before making the move to FC Barcelona in December 2021.
+            In his first full season with Barça the striker played his part in the league title success, scoring a vital goal in the win over Atlético Madrid which handed Barça an 11 point lead.
+            With the Spanish national side he competed in Euro2020, played in the summer of 2021, where his two goals helped the Spanish national side to the semi-finals. In the World Cup in Qatar in 2022, Torres scored two again with Spain reaching the last 16.
+        </item>
+        <item>
+            One of the best strikers ever, the Polish forward\'s stats speak for themselves
+            The striker from Poland stands out for his goalscoring abilities. Inside the box he has all the tools to make him a difficult striker to read as he can find the net with his head and both feet with equal precision.
+            His technical qualities also mean that he can link up well outside the box also. Lewandowski will bring goals, experience and know-how to the Barça attack.
+            After eight years with Bayern Munich, the striker joined Barça in the summer of 2022. Lewandowski is amongst the top five leading goalscorers in Champions League history and second on the list for the Bundesliga.
+            Born on 21 August in the Polish capital of Warsaw, Lewandowski started his career at Legia Warsaw, his professional career began in the youth teams at 2006 at Znicz Pruszków where he was top scorer on two separate occasions.
+            A move followed to Polish first division side Lech Poznan where he was top scorer in the league in 2009/10. The summer of 2010 brought a move to Bundesliga club Borussia Dortmund where he won the German league title twice and collected a runners-up medal when Jurgen Klopp’s side lost in the final of the Champions League against Bayern Munich.
+            Lewandowski’s next move was to none other than Bayern Munich where he becoming a vital part of the all-conquering Bavarian side. In 2020 with Bayern the Polish striker won all there is to win; the Bundesliga title, the German cup and Super Cup and the Champions League in which he was top scorer with 15 goals.
+            The striker’s consistent goalscoring led him to be named as ‘The Best’ on two occasions, picking up the award in 2020 and 2021. In 2022 he won the inaugural Gerd Müller award from magazine France Football for scoring the most goals for club and country with Bayern and Poland over the 2021/22 with 57 goals in 56 matches.
+            In his first season at FC Barcelona the Polish striker became the attacking reference point for the team, scoring 23 goals in the league to become pichichi as the blaugranes took the La Liga title.
+            After making his debut back in 2008, Lewandowski is the all time leading scorer for the Polish national team with ahead of second placed Włodzimierz Lubanski. In the World Cup in Qatar 2022 Lewandowski scored his first ever goal in the tournament as he helped Poland out of the group stage before defeat against France in the last 16 put an end to the tournament.
+        </item>
+        <item>
+            A technically gifted, skill winger with great dribbling skills and combination play
+            A technically proficient winger, with good dribbling, decision making and  an appealing and attractive style of play Raphael Dias Belloli (Raphinha) was born on 14 December 1996 in Porto Alegre, Brazil. He joined the Club from Leeds United in summer 2022.
+            The Brazilian winger went through the youth system at Avaí FC, making his debut for the club at the age of 19. His talent and progression earmarked him for European football and he went on to sign for the Portuguese Primeria Liga side, Vitòria Guimaraes. His first season was spent alternating playing for the youth and first teams before he ended up cementing a starting place.
+            Two years later, Raphinha signed for Sporting Club de Portugal for the 2018/19 season. The Brazilian developed into one of Europe\'s promising talents while at the Lisbon club and played a key role in the club winning the Copa de la Liga and Copa de Portugal double.
+            At the end of the 2018/19 season, Raphinha joined Rennes. He was one of the most expensive signings that summer, and the French club\'s second most expensive signing ever at the time. The winger played high quality football that season and proved to be the team\'s main threat.
+            In summer 2020 Raphinha signed for Leeds United, after his good performances didn\'t go unnoticed. During his two seasons at the English club he scored 17 goals and created 10 assists. He also played a key role in preventing the team from being relegated from the Premier League during his second year, shining bright towards the end of the 2021/22 season.
+            After arriving in July 2022 the Brazilian came to Barça and in his first season he helped the blaugranes to the league title with 10 goals and 12 assists.
+            A full international level, Raphinha officially debuted for the Brazilian national team on 7 October 2021 against Venezuela, creating two assists in the match. The winger was also part of the Brazil squad in the 2022 World Cup in Qatar where he figured in every game for his national side.
+        </item>
+        <item>
+            Lights up football with the creative flair and talent in the final third of the field
+            Joao Félix Sequeira (10 November 1999) was born in Viseu, Portugal. About 80km from home, he rose up through the ranks at Porto, but it was at Benfica where he turned professional, making his debut in 2018/2019. His performances in 43 competitive games that season earned him the coveted Golden Boy award.
+            He also made his full international debut for Portugal in 2019. He\'s scored five times for his country and has featured at two major tournaments.
+            On 3 July 2019, he departed to Atletico Madrid for 126 million euros, which was the record fee ever paid by the red-and-whites at the time. He\'d go on to play over 100 games under Diego Simeone.
+            Before coming to FC Barcelona, he spent January to July 2023 on loan to Chelsea.
+        </item>
+        <item>
+            A very versatile mobile centre forward with an eye for goal who can link and make darting runs
+            Vitor Roque (Timóteo, 28 February 2005) arrived at Barça in the winter window of the 2023/24 season after his signing was announced in summer 2023.
+            Athletico Paranaense were his former club, who he joined in April 2022 and for whom he first played in the Brazilian Serie A and the Copa Libertadores. He had already made his debut in the second division, Serie B, with Cruzeiro, aged only 16 years old. Vitor Roque originally came through the youth system at América Mineiro, after joining aged 10 years old.
+            He was one of the stars at the 2023 South American U-20 Championship. His key role as striker saw him help the Brazil side win the tournament, in which he top-scored with six goals. He also made his full debut for the Brazil national team in March 2023.
+            Roque is a mobile centre forward who can also play on the wing if needs be.
+        </item>
+    </string-array>
+
+    <string-array name="data_player_photo">
+
+        <item>https://www.fcbarcelona.com/photo-resources/2023/10/03/7d67f42b-2a8d-4e51-8d41-8aa3542482e4/01-MARC-ANDRE_TER_STEGEN.jpg?width=1200&amp;height=750</item>
+        <item>https://www.fcbarcelona.com/photo-resources/2023/10/03/65ae7c6c-8b9a-4d94-94b3-273c30c596a5/26-INAKI_PENA.jpg?width=1200&amp;height=750</item>
+
+
+        <item>https://www.fcbarcelona.com/photo-resources/2023/10/03/f2dec24d-975e-4d4b-b6a6-2a61771e3de3/jugador_fitxa-cancelo.jpg?width=1200&amp;height=750 </item>
+        <item>https://www.fcbarcelona.com/photo-resources/2023/10/03/993af0d7-2b2c-40d1-9e9b-c24f8d165537/mini_28-BALDE.jpg?width=1200&amp;height=750</item>
+        <item>https://www.fcbarcelona.com/photo-resources/2023/10/03/93330ade-5bdf-420a-a989-2c337f8104ca/04-RONALD_ARAUJO_.jpg?width=1200&amp;height=750</item>
+        <item>https://www.fcbarcelona.com/photo-resources/2023/10/03/8e1f4a73-cca2-48d8-8e43-655334f27886/jugador_fitxa_inigo_2023.jpg?width=1200&amp;height=750</item>
+        <item>https://www.fcbarcelona.com/photo-resources/2023/10/03/3acd07d7-8081-4050-a62c-1c1302038c23/15-ANDREAS_CHRISTENSEN.jpg?width=1200&amp;height=750 </item>
+        <item>https://www.fcbarcelona.com/photo-resources/2023/10/03/383058f5-1126-48c4-8efd-9c3687de8524/17-MARCOS_ALONSO.jpg?width=1200&amp;height=750</item>
+        <item>https://www.fcbarcelona.com/photo-resources/2023/10/03/66fdb7c1-455d-45bb-a132-060fca97925e/23-JULES_KOUNDE.jpg?width=1200&amp;height=750 </item>
+
+
+        <item>https://www.fcbarcelona.com/photo-resources/2023/10/03/1a22465f-7e9b-463d-981a-908dd221dd88/30-GAVI_.jpg?width=1200&amp;height=750</item>
+        <item>https://www.fcbarcelona.com/photo-resources/2023/10/03/4b341216-a50a-4d80-95ff-5ca2e5dcf640/08-PEDRI.jpg?width=1200&amp;height=750</item>
+        <item>https://www.fcbarcelona.com/photo-resources/2024/02/01/4594c085-fa9b-4900-816a-8e7c99e2e625/mini_16-FERMIN.jpg?width=1200&amp;height=750</item>
+        <item>https://www.fcbarcelona.com/photo-resources/2023/10/03/19b49390-6eb9-49c3-9734-632461612f9b/jugador_fitxa-oriol_romeu.jpg?width=1200&amp;height=750</item>
+        <item>https://www.fcbarcelona.com/photo-resources/2023/10/03/b30938f8-9ce1-4a72-be4a-bac6346abf13/20-S_ROBERTO.jpg?width=1200&amp;height=750</item>
+        <item>https://www.fcbarcelona.com/photo-resources/2023/10/03/d2214796-ebc8-4b1c-bb5d-37f2ce5883c7/21-FRENKIE_DE_JONG.jpg?width=1200&amp;height=750</item>
+        <item>https://www.fcbarcelona.com/photo-resources/2023/10/03/3f3b9374-b75e-43f7-9e3e-ceddd9dc211d/jugador_fitxa-gundogan.jpg?width=1200&amp;height=750</item>
+
+
+        <item>https://www.fcbarcelona.com/photo-resources/2023/10/03/166959ba-fb56-46ae-842b-e778d072ac5a/11-FERRAN_TORRES.jpg?width=1200&amp;height=750</item>
+        <item>https://www.fcbarcelona.com/photo-resources/2023/10/03/04101be1-2cef-4fb8-ae97-99a99297f65c/09-ROBERT_LEWANDOWSKI.jpg?width=1200&amp;height=750</item>
+        <item>https://www.fcbarcelona.com/photo-resources/2023/10/03/865c65cd-9dc0-41b8-b373-6a922e29d594/22-RAPHINHA.jpg?width=1200&amp;height=750</item>
+        <item>https://www.fcbarcelona.com/photo-resources/2023/10/03/8a21c5f5-bea0-470e-bd2b-c905aeab7ade/jugador_fitxa-felix.jpg?width=1200&amp;height=750</item>
+        <item>https://www.fcbarcelona.com/photo-resources/2024/01/05/1f5ecf24-2a9e-4b96-af12-d22412ee58d2/19-VITOR_ROQUE.jpg?width=1200&amp;height=750</item>
+    </string-array>
+
+</resources>
