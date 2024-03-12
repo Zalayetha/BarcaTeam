@@ -2,7 +2,7 @@
 BarcaTeam is an application that aims to introduce football players in the FC Barcelona team. This application has 3 menus :
 <ul>
   <li>
-    Main Menu : To display a list of FC Barcelona team soccer players
+    Main Menu : To display a list of FC Barcelona team football players
   </li>
   <li>
     About Menu: To show the profile of the person who developed this application
